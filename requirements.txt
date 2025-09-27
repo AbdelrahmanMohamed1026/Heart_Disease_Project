@@ -1,0 +1,8 @@
+ucimlrepo
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+joblib
+streamlit
