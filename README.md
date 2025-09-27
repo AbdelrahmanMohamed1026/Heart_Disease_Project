@@ -85,7 +85,7 @@ Heart_Disease_Project/
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+   git clone https://github.com/AbdelrahmanMohamed1026/Heart_Disease_Project.git
    cd heart-disease-prediction
    ```
 
