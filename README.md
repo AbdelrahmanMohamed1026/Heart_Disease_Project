@@ -92,8 +92,7 @@ Heart_Disease_Project/
 2. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
-   source venv/bin/activate   # On Linux/Mac
-   venv\Scripts\activate      # On Windows
+   venv\Scripts\activate
    ```
 
 3. Install dependencies:
