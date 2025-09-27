@@ -81,7 +81,7 @@ Heart_Disease_Project/
 
 ------
 
-## Quick Start / Installation  
+## ⚡ Quick Start / Installation  
 
 1. Clone the repository:  
    ```bash
