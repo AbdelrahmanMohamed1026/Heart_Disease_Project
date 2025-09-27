@@ -1,11 +1,11 @@
-# Heart Disease Prediction – Machine Learning Pipeline 
+# 🫀 Heart Disease Prediction – Machine Learning Pipeline 
 Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset
 
 ## 📌 Project Overview  
 This project implements a **comprehensive machine learning pipeline** on the **Heart Disease UCI dataset**.  
 The goal is to analyze, predict, and visualize the risk of heart disease through end-to-end steps: preprocessing, dimensionality reduction, feature selection, model training, evaluation, and deployment with a Streamlit web UI.  
 
----
+------
 
 ## 🚀 Workflow  
 
@@ -54,8 +54,10 @@ The goal is to analyze, predict, and visualize the risk of heart disease through
 - Prediction (Disease / No Disease)  
 - Probability score
 
+------
 
 ## 📂 Project Structure  
+``` bash
 Heart_Disease_Project/
 │── data/
 │ └── heart_disease.csv
@@ -75,9 +77,9 @@ Heart_Disease_Project/
 │── README.md
 │── requirements.txt
 │── .gitignore
+```
 
-
----
+------
 
 ## Quick Start / Installation  
 
@@ -85,20 +87,26 @@ Heart_Disease_Project/
    ```bash
    git clone https://github.com/your-username/heart-disease-prediction.git
    cd heart-disease-prediction
+   ```
 
 2. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate   # On Linux/Mac
    venv\Scripts\activate      # On Windows
+   ```
 
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
 
 4. Run the Streamlit app:
    ```bash
    python -m streamlit run ui/app.py
+   ```
+   
+ ------
 
  ## 📊 Final Deliverables  
 ✔️ Cleaned & processed dataset  
